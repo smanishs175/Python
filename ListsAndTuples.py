@@ -28,3 +28,11 @@ print(tup[0])
 print(tup[1])
 print(tup[2])
 print(tup[3])
+
+
+#WAP to ask the user to enter names of their favorite movies & store them in the list 
+list_of_movies = []
+list_of_movies.append(input("Enter your first favorite movie name"))
+list_of_movies.append(input("Enter your second favorite movie name"))
+list_of_movies.append(input("Enter your third favorite movie name"))
+print(list_of_movies)
