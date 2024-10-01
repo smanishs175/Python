@@ -36,3 +36,5 @@ list_of_movies.append(input("Enter your first favorite movie name"))
 list_of_movies.append(input("Enter your second favorite movie name"))
 list_of_movies.append(input("Enter your third favorite movie name"))
 print(list_of_movies)
+# ['a', 'b', 'c']
+
